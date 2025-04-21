@@ -104,5 +104,4 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 ---
 
-*Built with 💖 by MD Asif Anjum*
 
